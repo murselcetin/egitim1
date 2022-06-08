@@ -16,4 +16,5 @@ fun main() {
     println("Maaşınız = ${f.soru6(25)}")
 
     println("İnternet Ücreti = ${f.soru7(60)}")
+
 }
